@@ -2,8 +2,6 @@
 
 A simple, mobile-friendly web tool for consultants to instantly check the manufacturing date and shelf life of products using the 4-character batch code.
 
-**🔗 https://github.com/Rosie803/mkdate **
-
 ---
 
 ## ✨ Features
