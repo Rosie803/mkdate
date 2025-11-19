@@ -2,7 +2,7 @@
 
 A simple, mobile-friendly web tool for consultants to instantly check the manufacturing date and shelf life of products using the 4-character batch code.
 
-**🔗 [CLICK HERE TO OPEN THE APP](INSERT YOUR GITHUB PAGES LINK HERE)**
+**🔗 [CLICK HERE TO OPEN THE APP]**
 
 ---
 
